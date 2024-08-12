@@ -1,0 +1,5 @@
+Build filter=lfs diff=lfs merge=lfs -text
+Config filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Slash.uproject filter=lfs diff=lfs merge=lfs -text
+Source filter=lfs diff=lfs merge=lfs -text
