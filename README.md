@@ -1,3 +1,5 @@
+# SlashStudyProject
+
 A project made after learning the [tutorial](https://github.com/DruidMech/UE5_TheUltimateDeveloperCourse).
 
 Unreal Engine Version: 5.3.2
