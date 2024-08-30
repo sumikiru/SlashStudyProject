@@ -1,1 +1,14 @@
 .git
+*.idea
+*vs
+*.sln
+*.vsconfig
+*.user
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+# Content二进制文件较大
+/Content
+/Build
+/Assets
